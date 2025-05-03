@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlashcardQuizApp</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="welcome_to_history_flashcards">Welcome to History Flashcards !</string>
+    <string name="falsebutton">falseButton</string>
+    <string name="nextButton">nextButton</string>
+    <string name="questionText">questionText</string>
+    <string name="trueButton">trueButton</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="not_yet_implemented">Not yet implemented</string>
+</resources>
